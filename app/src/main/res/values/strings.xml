@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Internshala Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes_database">notes_database</string>
+    <string name="shared_pref">Internshala_Assignment_Shared_pref</string>
+    <string name="isLoggedIn">isUserLoggedIn</string>
+    <string name="current_user_displayName">current_display_name</string>
+    <string name="current_user_emailId">current_emailId</string>
+    <string name="notePassingId">Note</string>
+    <string name="note_deleted_message">Note deleted successfully</string>
+    <string name="note_edited_message">Note Updated successfully</string>
+    <string name="note_saved_message">Note Saved successfully</string>
+    <string name="note_title_required_message">Title is required</string>
+    <string name="signin_error_occured">An error occurred. Please try again.</string>
+    <string name="logged_out_message">Logged Out Successfully</string>
+</resources>
